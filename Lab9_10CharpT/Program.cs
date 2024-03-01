@@ -30,12 +30,12 @@ class Program
                 case "2":
                     Task2.Task2_();
                     break;
-                /*  case "3":
-                      Task3.Task3_();
-                      break;
-                  case "4":
-                      Task4.Task4_();
-                      break;*/
+                case "3":
+                    Task3.Task3_();
+                    break;
+                /*  case "4":
+                     Task4.Task4_();
+                     break;*/
 
                 case "5":
                     return;
