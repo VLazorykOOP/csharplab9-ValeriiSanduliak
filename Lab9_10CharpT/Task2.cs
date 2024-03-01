@@ -77,7 +77,7 @@ namespace Lab9_10CharpT
 
             if (successfulStudents.Count > 0)
             {
-                Console.WriteLine("Students who have grades 4 and 5 :");
+                Console.WriteLine("Students who are successfully studying for 4 and 5:");
                 PrintStudentsQueue(successfulStudents);
             }
             else
